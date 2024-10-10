@@ -31,4 +31,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy, feel free to contact us at:
 
-**Email:** [mailto:faitholusegun60@gmail.com]
+**Email:** [faitholusegun60@gmail.com](mailto:faitholusegun60@gmail.com)
