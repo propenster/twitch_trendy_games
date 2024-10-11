@@ -1,6 +1,8 @@
-# Twitch Trendy Games Chrome Extension
+# Twitch Trendy Games Browser Extension
 
-*See video of how to use this extension [here](https://www.youtube.com/watch?v=bc8PavYKyFI)*
+*See video of how to use this extension*
+- [Google Chrome](https://www.youtube.com/watch?v=bc8PavYKyFI)
+- [Microsoft Edge](https://www.youtube.com/watch?v=aIdzWKAnweY)
 
 ## Find Trending Twitch Games to Stream!
 
