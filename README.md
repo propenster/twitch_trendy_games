@@ -6,7 +6,7 @@
 
 ## Find Trending Twitch Games to Stream!
 
-Discover the hottest trending games on Twitch with this powerful Chrome extension, designed to keep you updated on the most popular games being streamed in real-time. Whether you’re a seasoned streamer or just starting out, this extension ensures you stay ahead of the curve, so you can quickly join the trend and engage your audience by streaming the games that everyone is talking about.
+Discover the hottest trending games on Twitch with this powerful Browser extension, designed to keep you updated on the most popular games being streamed in real-time. Whether you’re a seasoned streamer or just starting out, this extension ensures you stay ahead of the curve, so you can quickly join the trend and engage your audience by streaming the games that everyone is talking about.
 
 ## Key Features:
 
@@ -20,7 +20,7 @@ Discover the hottest trending games on Twitch with this powerful Chrome extensio
 
 - **Quick Access & Easy to Use**: With a simple interface, this extension lets you focus on finding and streaming the games that will boost your channel’s popularity.
 
-Elevate your Twitch channel by streaming the games that attract the most viewers, and stay updated with the ever-changing trends in the gaming world with this feature-packed Chrome extension.
+Elevate your Twitch channel by streaming the games that attract the most viewers, and stay updated with the ever-changing trends in the gaming world with this feature-packed Browser extension.
 
 
 
